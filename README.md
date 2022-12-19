@@ -1,5 +1,18 @@
 # TypeScript Vue3 Coding Challenge
 
+## Tech Stacks:
+
+```
+Vue3,
+Vue CLI,
+Options API,
+Vuex,
+Vue Router,
+date-fns-tz,
+TailwindCSS,
+TypeScript,
+```
+
 ## Project setup
 
 ```
